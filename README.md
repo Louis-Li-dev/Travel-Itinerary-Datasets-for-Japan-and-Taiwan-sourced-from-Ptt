@@ -7,5 +7,5 @@ This dataset is organized into two directories containing Taiwanese itineraries 
 To access the dataset, clone the repository using the following command:
 
 ```bash
-git clone https://github.com/Journal-Conference-Progress-Tracker/itinerary_dataset
+git clone https://github.com/Louis-Li-dev/Travel-Itinerary-Datasets-for-Japan-and-Taiwan-sourced-from-Ptt
 ```
